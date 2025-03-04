@@ -60,9 +60,7 @@ fun main() {
 
 
     // Loop through the list
-    for (snack in snacks) {
-        println(snack)
-    }
+
 
     // Loop using an index
     for (i in 0 ..< snacks.size) {
